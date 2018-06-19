@@ -1,5 +1,7 @@
 # clipboard.js
 
+兼容各浏览器实现 copy (复制)功能
+
 [![Build Status](http://img.shields.io/travis/zenorocha/clipboard.js/master.svg?style=flat)](https://travis-ci.org/zenorocha/clipboard.js)
 ![Killing Flash](https://img.shields.io/badge/killing-flash-brightgreen.svg?style=flat)
 
